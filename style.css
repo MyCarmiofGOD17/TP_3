@@ -1,0 +1,43 @@
+body{
+    background-color: grey;
+    margin: 0;
+    padding: 0;
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin: 3px;
+}
+.header{
+   
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar ul{
+    margin: 5px;
+    padding:5px;
+    background-color: black;
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+    
+}
+img{
+    width: 150px;
+    height: 200px;
+    border-radius: 30px;
+    margin: 5px;
+    padding:5px;
+    display: inline;
+    
+}
+strong {
+ color: white;
+}
+h1{
+    color: white;
+    text-align: center;
+}
