@@ -1,0 +1,36 @@
+body{
+    background-color: grey;
+    margin: 0;
+    padding: 0;
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin: 3px;
+}
+.header{
+   
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar ul{
+    margin: 5px;
+    padding:5px;
+    background-color: black;
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+    
+}
+h1{
+    color: white;
+    text-align: center;
+}
+table tr{
+    border: 35px;
+    border-color:orange;
+    background-color: beige;
+}
